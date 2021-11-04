@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이유나"
-  avatar           : "/assets/images/아바타."  # path of avatar image, e.g.
+  avatar           : "/assets/images/아바타.jpg "  # path of avatar image, e.g.
   bio              : "hafs16 자연"
   location         : "대한민국, 용인"
   email            : "21-20516@hafs.hs.kr"
