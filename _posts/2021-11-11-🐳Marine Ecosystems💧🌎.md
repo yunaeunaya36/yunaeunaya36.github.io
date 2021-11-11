@@ -1,11 +1,12 @@
----
+---![해양 오염2](https://user-images.githubusercontent.com/89568289/141253929-29644f45-8a2c-472f-af71-d80cc2c42341.jpg)
+
 layout: post
 title:  "🐳Marine Ecosystems💧🌎"
 ---
 
 #😰This is a post to protect the marine ecosystem in crisis😱.
 
-![해양오염.jpg](/_posts/images/해양오염.jpg)
+![해양 오염.jpg](/_posts/images/해양 오염.jpg)
 
 환경에 대한 경각심을 일깨우고, 해양 생태계 보호를 당부하기 위해 작성한 연설문입니다.
 
