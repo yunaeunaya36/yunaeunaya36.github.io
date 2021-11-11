@@ -1,5 +1,4 @@
----![해양 오염2](https://user-images.githubusercontent.com/89568289/141253929-29644f45-8a2c-472f-af71-d80cc2c42341.jpg)
-
+---
 layout: post
 title:  "🐳Marine Ecosystems💧🌎"
 ---
