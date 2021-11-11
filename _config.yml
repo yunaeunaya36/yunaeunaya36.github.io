@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "dark" # "default", "air", "contrast", "aqua", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "contrast" # "default", "air", "contrast", "aqua", "dirt", "neon", "mint", "plum", "sunrise","dark"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -104,7 +104,7 @@ author:
   name             : "이유나"
   avatar           : "/assets/images/아바타.jpg "  # path of avatar image, e.g.
   bio              : "hafs16 자연"
-  location         : "대한민국, 용인"
+  location         : "대한민국, "
   email            : "21-20516@hafs.hs.kr"
   links:
     - label: "Email"
