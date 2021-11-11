@@ -5,6 +5,8 @@ title:  "🐳Marine Ecosystems💧🌎"
 
 #😰This is a post to protect the marine ecosystem in crisis😱.
 
+![해양오염.jpg](/_posts/images/해양오염.jpg)
+
 환경에 대한 경각심을 일깨우고, 해양 생태계 보호를 당부하기 위해 작성한 연설문입니다.
 
 
